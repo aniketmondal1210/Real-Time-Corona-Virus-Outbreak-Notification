@@ -1,6 +1,7 @@
 🦠 COVID-19 Desktop Tracker (India)
 
 This Python script uses real-time data from the disease.sh API to track COVID-19 statistics for India and specific Indian states. It displays desktop notifications with key updates such as total cases, active cases, recovered, deaths, new deaths, and death rate.
+
 📦 Features
 
     📊 Monitors India's nationwide COVID-19 stats
